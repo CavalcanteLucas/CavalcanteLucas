@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋 I'm Lucas Cavalcante
 
 ```
 • Full-stack Python/JS software developer
