@@ -8,11 +8,11 @@
 • Strong writing skills
 
 Skills
-• 5 years experience with Python, including testing frameworks.
-• 2 years experience with Django, including Django REST Framework.
-• 2 years experience with reactive frontend frameworks such as React.js, Redux.js, and Vue.js.
-• Experience with Docker, Heroku, RabitMQ, Nginx, Flask.
-• Trained in HTML5, CSS3, Bootstrap.
+• 5 years experience with Python, including testing frameworks
+• 2 years experience with Django, including Django REST Framework
+• 2 years experience with reactive frontend frameworks such as React.js, Redux.js, and Vue.js
+• Experience with Docker, Heroku, RabitMQ, Nginx, Flask
+• Trained in HTML5, CSS3, Bootstrap
 
 Experience
 • Computing Engineer
