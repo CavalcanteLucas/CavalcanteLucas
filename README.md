@@ -4,8 +4,6 @@
 • Full-stack Python/JS software developer
 • Linux / Git enthusiast
 • Open-source advocate
-• Fluent English
-• Strong writing skills
 
 Skills
 • 5 years experience with Python, including testing frameworks
@@ -13,6 +11,8 @@ Skills
 • 2 years experience with reactive frontend frameworks such as React.js, Redux.js, and Vue.js
 • Experience with Docker, Heroku, RabitMQ, Nginx, Flask
 • Trained in HTML5, CSS3, Bootstrap
+• Fluent English
+• Strong writing skills
 
 Experience
 • Computing Engineer
