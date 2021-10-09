@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can find me on  on [![LinkedIn][1]][1.2].
+You can find me on  on [![LinkedIn][1.2]][1].
 
 <!-- Links --!>
 
