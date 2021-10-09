@@ -15,8 +15,8 @@ Skills
 • Strong writing skills
 
 Experience
-• Computing Engineer
-• Digital Transmission Systems Ph.D
+• Computer Engineering M.Sc.
+• Digital Transmission Systems Ph.D.
 • Solid mathematical background
 • Deep understanding of digital signal processing, and wireless/optical transmission systems
 • Broad experience with languages and libraries for mathematical and physical simulations with HPC:
