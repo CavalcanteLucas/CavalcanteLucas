@@ -1,7 +1,5 @@
 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5114495?color=%23F48024&label=Stack%20overflow&logo=stackoverflow&logoColor=ffffff&cacheSeconds=86400)](https://stackoverflow.com/users/5114495/lucascavalcante)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://linkedin.com/in/lucas-cp-cavalcante)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5114495?color=%23F48024&label=Stack%20overflow&logo=stackoverflow&logoColor=ffffff&cacheSeconds=86400)](https://stackoverflow.com/users/5114495/lucascavalcante) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://linkedin.com/in/lucas-cp-cavalcante)
 
 ```
 • Full-stack Python/JS software developer
