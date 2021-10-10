@@ -23,14 +23,16 @@ Experience
 "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
 ```
 
-You can also find me at Linked[![LinkedIn][1.2]][1]
-
-[1.2]: https://i.ibb.co/hYHshRp/iconmonstr-linkedin-3-16.png (LinkedIn)
-[1]: https://www.linkedin.com/in/lucas-cp-cavalcante/
-
 <a href="https://github.com/cavalcantelucas/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cavalcantelucas&count_private=true&show_icons=true&hide=stars" />
 </a>
 <a href="https://github.com/cavalcantelucas/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantelucas&layout=compact" />
 </a>
+
+---
+
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5114495?color=%23F48024&label=Stack%20overflow&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/5114495/lucascavalcante)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://linkedin.com/in/lucas-cp-cavalcante)
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
