@@ -25,7 +25,7 @@ Experience
 "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
 ```
 
-You can find me on [![LinkedIn][1.2]][1]
+You can find me at Linked[![LinkedIn][1.2]][1]
 
 [1.2]: https://i.ibb.co/hYHshRp/iconmonstr-linkedin-3-16.png (LinkedIn)
 [1]: https://www.linkedin.com/in/lucas-cp-cavalcante/
