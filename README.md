@@ -1,7 +1,7 @@
 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5114495?color=%23F48024&label=Stack%20overflow&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/5114495/lucascavalcante)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://linkedin.com/in/lucas-cp-cavalcante)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/5114495?color=%23F48024&label=Stack%20overflow&logo=stackoverflow&logoColor=ffffff&cacheSeconds=86400)](https://stackoverflow.com/users/5114495/lucascavalcante)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://linkedin.com/in/lucas-cp-cavalcante)
 
 ```
 • Full-stack Python/JS software developer
@@ -28,6 +28,8 @@ Experience
 "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
 ```
 
+###
+
 <a href="https://github.com/cavalcantelucas/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cavalcantelucas&count_private=true&show_icons=true&hide=stars" />
 </a>
@@ -35,9 +37,9 @@ Experience
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantelucas&layout=compact" />
 </a>
 
-### Current studies
+###
 
-|Course|Progress|
+|Current studies|Progress|
 |---|---:|
 | [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![5](https://progress-bar.dev/96/?title=119\/123&color=babaca&width=120) |
 | [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | ![3](https://progress-bar.dev/27/?title=11\/36&color=babaca&width=120) |
