@@ -4,7 +4,7 @@
 
 
 ```
-• Full-stack Python/JS software developer
+• Full-stack Python/JavaScript software developer
 • Linux / Git enthusiast
 • Open-source advocate
 
