@@ -48,5 +48,5 @@ Experience
 | [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![1](https://progress-bar.dev/5/?title=1:00:19\/18:32:45&color=babaca&width=120) |
 | [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | ![2](https://progress-bar.dev/3/?title=09:44\/5:26:45&color=babaca&width=120) |
 | [Advanced Python Complete Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&ab_channel=freeCodeCamp.org) | ![4](https://progress-bar.dev/0/?title=0\/5:55:46&color=babaca&width=120) |
-| [AWS Certified Solutions Architect](https://www.youtube.com/watch?v=Ia-UEYYR44s&ab_channel=freeCodeCamp.org) | ![4](https://progress-bar.dev/0/?title=0\/10:26:18&color=babaca&width=120) |
+| [AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) | ![4](https://progress-bar.dev/0/?title=0\/10:26:18&color=babaca&width=120) |
 
