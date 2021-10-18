@@ -46,7 +46,7 @@ Experience
 | [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | ![3](https://progress-bar.dev/27/?title=11\/36&color=babaca&width=120) |
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![6](https://progress-bar.dev/24/?title=Chap.5\/Chap.21&color=babaca&width=120) |
 | [AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) | ![4](https://progress-bar.dev/17/?title=0:40:08\/3:58:00&color=babaca&width=120) |
-| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![1](https://progress-bar.dev/9/?title=0:40:08\/3:58:00&color=babaca&width=120) |
+| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![1](https://progress-bar.dev/9/?title=1:40:41\/18:40:43&color=babaca&width=120) |
 | [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | ![2](https://progress-bar.dev/3/?title=09:44\/5:26:45&color=babaca&width=120) |
 | [Advanced Python Complete Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&ab_channel=freeCodeCamp.org) | ![4](https://progress-bar.dev/0/?title=0\/5:55:46&color=babaca&width=120) |
 
