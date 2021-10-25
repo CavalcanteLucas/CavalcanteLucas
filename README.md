@@ -43,7 +43,7 @@ Experience
 |Current studies|Progress|
 |---|---:|
 | [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![1](https://progress-bar.dev/99/?title=ep.123\/ep.124&color=babaca&width=120) |
-| [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) | ![2](https://progress-bar.dev/56/?title=pg.17\/pg.30&color=babaca&width=120) |
+| [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) | ![2](https://progress-bar.dev/66/?title=pg.20\/pg.30&color=babaca&width=120) |
 | [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | ![3](https://progress-bar.dev/27/?title=ep.11\/ep.36&color=babaca&width=120) |
 | [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/26/?title=4:49:12\/18:40:43&color=babaca&width=120) |
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![4](https://progress-bar.dev/24/?title=Chap.5\/Chap.21&color=babaca&width=120) |
