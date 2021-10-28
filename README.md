@@ -4,27 +4,27 @@
 
 
 ```
-• Full-stack Python/JavaScript software developer
+• Full-stack Python / JavaScript Software Developer
 • Linux / Git enthusiast
 • Open-source advocate
 
-Skills
+Experience
 • 5 years experience with Python;
 • 2 years experience with Django, including DRF and testing frameworks;
 • 2 years experience with frontend developing, including HTML5, CSS3, Bootstrap;
-• 2 years experience with reactive frameworks such as React.js, Redux.js, and Vue.js, 
+• 2 years experience with reactive frameworks such as React.js, Redux.js, and Vue.js,
 • 1 year experience with deploying technologies and platforms, including
-  Docker, Heroku, RabitMQ, NGINX, Flask, AWS;
+Docker, Heroku, RabitMQ, NGINX, Flask, AWS;
+
+Skills
 • Fluent English;
 • Strong writing skills.
-
-Experience
-• Computer Engineering M.Sc.;
 • Digital Transmission Systems Ph.D.;
+• Computing Engineer M.Sc.;
 • Solid mathematical background;
 • Deep understanding of digital signal processing, and wireless/optical transmission systems;
 • Broad experience with languages and libraries for mathematical and physical simulations
-  with HPC, including Python, MATLAB, C++, CUDA, OpenCL, OpenMP.
+with HPC, including Python, MATLAB, C++, CUDA, OpenCL, OpenMP.
 
 "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
 ```
