@@ -43,7 +43,7 @@ with HPC, including Python, MATLAB, C++, CUDA, OpenCL, OpenMP.
 |Current studies|Progress|
 |---|---:|
 | [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![1](https://progress-bar.dev/98/?title=ep.123\/ep.126&color=babaca&width=120) |
-| [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) | ![2](https://progress-bar.dev/70/?title=pg.21\/pg.30&color=babaca&width=120) |
+| [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) | ![2](https://progress-bar.dev/80/?title=pg.24\/pg.30&color=babaca&width=120) |
 | [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/30/?title=5:46:12\/18:40:43&color=babaca&width=120) |
 | [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | ![3](https://progress-bar.dev/30/?title=ep.11\/ep.36&color=babaca&width=120) |
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![4](https://progress-bar.dev/25/?title=pg.181\/pg.711&color=babaca&width=120) |
