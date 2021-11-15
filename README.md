@@ -48,6 +48,5 @@ with HPC, including Python, MATLAB, C++, CUDA, OpenCL, OpenMP.
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![4](https://progress-bar.dev/25/?title=pg.181\/pg.711&color=babaca&width=120) |
 | [AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) | ![6](https://progress-bar.dev/17/?title=0:40:08\/3:58:00&color=babaca&width=120) |
 | [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | ![7](https://progress-bar.dev/10/?title=33:30\/5:26:45&color=babaca&width=120) |
-| [The Django admin site](https://docs.djangoproject.com/en/3.2/ref/contrib/admin/) | ![8](https://progress-bar.dev/3/?title=the-register-decorator&color=babaca&width=120) |
 | [What’s New In Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html) | ![9](https://progress-bar.dev/3/?title=parenthesized-context-managers&color=babaca&width=120) |
 | [Advanced Python Complete Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&ab_channel=freeCodeCamp.org) | ![10](https://progress-bar.dev/0/?title=0\/5:55:46&color=babaca&width=120) |
