@@ -51,3 +51,5 @@ with HPC, including Python, MATLAB, C++, CUDA, OpenCL, OpenMP.
 | [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | ![7](https://progress-bar.dev/10/?title=0:44:44\/5:26:45&color=babaca&width=120) |
 | [What’s New In Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html) | ![9](https://progress-bar.dev/3/?title=parenthesized-context-managers&color=babaca&width=120) |
 | [Advanced Python Complete Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&ab_channel=freeCodeCamp.org) | ![10](https://progress-bar.dev/0/?title=0:02:09\/5:55:46&color=babaca&width=120) |
+| [Django 4.0 release notes](https://docs.djangoproject.com/en/4.0/releases/4.0/) | ![4](https://progress-bar.dev/31/?title=0django-release-notes&color=babaca&width=120) |
+
