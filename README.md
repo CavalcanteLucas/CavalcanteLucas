@@ -29,15 +29,6 @@ Skills
 
 ###
 
-<a href="https://github.com/cavalcantelucas/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cavalcantelucas&count_private=true&show_icons=true&hide=stars" />
-</a>
-<a href="https://github.com/cavalcantelucas/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantelucas&layout=compact" />
-</a>
-
-###
-
 |Current studies|Progress|
 |---|---:|
 | [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![1](https://progress-bar.dev/98/?title=ep.123\/ep.126&color=babaca&width=120) |
@@ -50,4 +41,18 @@ Skills
 | [What’s New In Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html) | ![9](https://progress-bar.dev/3/?title=parenthesized-context-managers&color=babaca&width=120) |
 | [Advanced Python Complete Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&ab_channel=freeCodeCamp.org) | ![10](https://progress-bar.dev/0/?title=0:02:09\/5:55:46&color=babaca&width=120) |
 | [Django 4.0 release notes](https://docs.djangoproject.com/en/4.0/releases/4.0/) | ![4](https://progress-bar.dev/0/?title=0django-release-notes&color=babaca&width=120) |
+
+
+###
+
+<a href="https://github.com/cavalcantelucas/shelf">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cavalcantelucas&repo=shelf" />
+</a>
+<br />
+<a href="https://github.com/cavalcantelucas/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cavalcantelucas&count_private=true&show_icons=true&hide=stars" />
+</a>
+<a href="https://github.com/cavalcantelucas/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantelucas&layout=compact" />
+</a>
 
