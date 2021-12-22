@@ -9,12 +9,11 @@
 • Open-source advocate
 
 Experience
-• 5 years experience with Python;
-• 2 years experience with Django, including DRF and testing frameworks;
-• 2 years experience with frontend developing, including HTML5, CSS3, Bootstrap;
-• 2 years experience with reactive frameworks such as React.js, Redux.js, and Vue.js,
-• 1 year experience with deploying technologies and platforms, including
-Docker, Heroku, RabitMQ, NGINX, Flask, AWS;
+• 5+ years experience with Python;
+• 2+ years experience with Django, including DRF and testing frameworks;
+• 2+ years experience with frontend developing, including HTML5, CSS3, Bootstrap;
+• 2+ years experience with reactive frameworks such as React.js, Redux.js, and Vue.js,
+• 1~ year experience with deploying technologies and platforms, including Docker, Heroku, RabitMQ, NGINX, Flask, AWS;
 
 Skills
 • Fluent English;
@@ -23,8 +22,7 @@ Skills
 • Computing Engineer M.Sc.;
 • Solid mathematical background;
 • Deep understanding of digital signal processing, and wireless/optical transmission systems;
-• Broad experience with languages and libraries for mathematical and physical simulations
-with HPC, including Python, MATLAB, C++, CUDA, OpenCL, OpenMP.
+• Broad experience with languages and libraries for mathematical and physical simulations with HPC, including Python, MATLAB, C++, CUDA, OpenCL, OpenMP.
 
 "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
 ```
