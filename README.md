@@ -2,7 +2,6 @@
 [![Stack Exchange reputation](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5114495/lucascavalcante)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-cp-cavalcante)
 
-
 ```
 • Full-stack Python / JavaScript Software Developer
 • Linux / Git enthusiast
@@ -42,13 +41,22 @@ Skills
 | [Advanced Python Complete Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&ab_channel=freeCodeCamp.org) | ![10](https://progress-bar.dev/0/?title=0:02:09\/5:55:46&color=babaca&width=120) |
 | [Django 4.0 release notes](https://docs.djangoproject.com/en/4.0/releases/4.0/) | ![4](https://progress-bar.dev/0/?title=0django-release-notes&color=babaca&width=120) |
 
-
 ###
 
 <a href="https://github.com/cavalcantelucas/Completed-Studies">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cavalcantelucas&repo=Completed-Studies" />
+  <img align="center" style="margin-bottom: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=cavalcantelucas&repo=Completed-Studies" />
 </a>
-<br />
+
+###
+
+| Latest Blog Posts|
+|---|
+|[Sustainable notifications with react-redux-api-tools](https://labcodes.com.br/blog/en-us/development/messaging-with-react-redux-api-tools/)|
+|[Emulate remote servers for web applications with VirtualBox - Part 1](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-1/)|
+|[Emulate remote servers for web applications with VirtualBox - Part 2](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-2/)|
+
+###
+
 <a href="https://github.com/cavalcantelucas/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cavalcantelucas&count_private=true&show_icons=true&hide=stars" />
 </a>
