@@ -45,8 +45,8 @@ Skills
 
 ###
 
-<a href="https://github.com/cavalcantelucas/shelf">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cavalcantelucas&repo=shelf" />
+<a href="https://github.com/cavalcantelucas/Completed-Studies">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cavalcantelucas&repo=Completed-Studies" />
 </a>
 <br />
 <a href="https://github.com/cavalcantelucas/">
