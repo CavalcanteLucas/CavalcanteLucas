@@ -50,7 +50,7 @@ Skills
 
 ###
 
-<a href="https://github.com/cavalcantelucas/Completed-Studies">
+<a href="https://github.com/cavalcantelucas/Completed-Studie">
   <img align="center" style="margin-bottom: 0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=cavalcantelucas&repo=Completed-Studies" />
 </a>
 
