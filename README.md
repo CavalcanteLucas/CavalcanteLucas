@@ -38,8 +38,8 @@ Skills
 |Current studies|Progress|
 |---|---:|
 | [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![1](https://progress-bar.dev/98/?title=ep.123\/ep.126&color=babaca&width=120) |
-| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/37/?title=7:29:30\/18:40:43&color=babaca&width=120) |
-| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![4](https://progress-bar.dev/31/?title=pg.227\/pg.711&color=babaca&width=120) |
+| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/40/?title=7:29:30\/18:40:43&color=babaca&width=120) |
+| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![4](https://progress-bar.dev/33 /?title=pg.235\/pg.711&color=babaca&width=120) |
 | [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | ![3](https://progress-bar.dev/30/?title=ep.11\/ep.36&color=babaca&width=120) |
 | [Python Cookbook](https://github.com/CavalcanteLucas/cookbook/blob/master/Python_Cookbook_3rd_Edition.pdf) | ![4](https://progress-bar.dev/26/?title=pg.175\/pg.664&color=babaca&width=120) |
 | [AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) | ![6](https://progress-bar.dev/17/?title=0:40:08\/3:58:00&color=babaca&width=120) |
