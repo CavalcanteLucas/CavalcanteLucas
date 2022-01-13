@@ -12,7 +12,7 @@ Experience
 • 2+ years experience with Django, including DRF and testing frameworks;
 • 2+ years experience with frontend developing, including HTML5, CSS3, Bootstrap;
 • 2+ years experience with reactive frameworks such as React.js, Redux.js, and Vue.js,
-• 1~ year experience with deploying technologies and platforms, including Docker, Heroku, RabitMQ, NGINX, Flask, AWS;
+• 1~ year experience with deploying technologies and microservices, including Docker, Heroku, RabitMQ, NGINX, AWS;
 
 Skills
 • Fluent English;
