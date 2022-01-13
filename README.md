@@ -9,9 +9,10 @@
 
 Experience
 • 5+ years experience with Python;
-• 2+ years experience with Django, including DRF and testing frameworks;
+• 2+ years experience with Django, including DRF, and testing frameworks like Pytest;
+• 2+ years experience with Database management, including SQL, MySQL, PostgreSQL;
+• 2+ years experience with JavaScript and reactive frameworks such as React.js, Redux.js, and Vue.js,
 • 2+ years experience with frontend developing, including HTML5, CSS3, Bootstrap;
-• 2+ years experience with reactive frameworks such as React.js, Redux.js, and Vue.js,
 • 1~ year experience with deploying technologies and microservices, including Docker, Heroku, RabitMQ, NGINX, AWS;
 
 Skills
