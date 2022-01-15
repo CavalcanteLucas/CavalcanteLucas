@@ -40,14 +40,11 @@ Skills
 |---|---:|
 | [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![1](https://progress-bar.dev/98/?title=ep.123\/ep.126&color=babaca&width=120) |
 | [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/43/?title=7:57:46\/18:40:43&color=babaca&width=120) |
-| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![4](https://progress-bar.dev/33/?title=pg.235\/pg.711&color=babaca&width=120) |
+| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![4](https://progress-bar.dev/38/?title=pg.272\/pg.711&color=babaca&width=120) |
 | [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | ![3](https://progress-bar.dev/30/?title=ep.11\/ep.36&color=babaca&width=120) |
 | [Python Cookbook](https://github.com/CavalcanteLucas/cookbook/blob/master/Python_Cookbook_3rd_Edition.pdf) | ![4](https://progress-bar.dev/26/?title=pg.175\/pg.664&color=babaca&width=120) |
 | [AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) | ![6](https://progress-bar.dev/17/?title=0:40:08\/3:58:00&color=babaca&width=120) |
 | [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | ![7](https://progress-bar.dev/10/?title=0:44:44\/5:26:45&color=babaca&width=120) |
-| [What’s New In Python 3.10](https://docs.python.org/3.10/whatsnew/3.10.html) | ![9](https://progress-bar.dev/3/?title=parenthesized-context-managers&color=babaca&width=120) |
-| [Advanced Python Complete Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&ab_channel=freeCodeCamp.org) | ![10](https://progress-bar.dev/0/?title=0:02:09\/5:55:46&color=babaca&width=120) |
-| [Django 4.0 release notes](https://docs.djangoproject.com/en/4.0/releases/4.0/) | ![4](https://progress-bar.dev/0/?title=0django-release-notes&color=babaca&width=120) |
 
 ###
 
