@@ -41,7 +41,6 @@ Check out my profile at <github.com/CavalcanteLucas>
 |Current studies|Progress|
 |---|---:|
 | [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![1](https://progress-bar.dev/91/?title=ep.123\/ep.135&color=babaca&width=120) |
-| [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE) | ![2](https://progress-bar.dev/81/?title=6:43:43\/8:16:47&color=babaca&width=120) |
 | [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/43/?title=7:57:46\/18:40:43&color=babaca&width=120) |
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![4](https://progress-bar.dev/38/?title=pg.272\/pg.711&color=babaca&width=120) |
 | [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | ![3](https://progress-bar.dev/30/?title=ep.11\/ep.36&color=babaca&width=120) |
