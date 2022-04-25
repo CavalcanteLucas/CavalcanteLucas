@@ -8,12 +8,13 @@
 • Open-source advocate
 
 Experience
-• 5+ years experience with Python
-• 2+ years experience with JavaScript for both backend and frontend, including NodeJS, ExpressJS and reactive frameworks such as ReactJS, Redux, and Vue
-• 2+ years experience with Django, including DRF, and testing frameworks like Pytest
-• 2+ years experience with Database management, including SQL, MySQL, PostgreSQL
-• 2+ years experience with frontend developing, including HTML5, CSS3, Bootstrap 
-• 1~ year experience with deploying technologies and microservices, including Docker, Heroku, RabitMQ, NGINX, AWS
+• 5+ yoe (years of experience) with Python
+• 2+ yoe with JavaScript for both backend and frontend, including NodeJS, ExpressJS and reactive frameworks such as ReactJS, Redux, and Vue
+• 2+ yoe with Django, including DRF, and testing frameworks like Pytest
+• 2+ yoe with relational Database management using MySQL and PostgreSQL
+• 2+ yoe with frontend developing, including HTML5, CSS3, Bootstrap 
+• 1~ yoe with deploying technologies, including NGINX, Heroku, Docker, RabitMQ
+• 1~ yoe with AWS services including EC2, S3, CloudWatch, Lambda, Organizations. Training for  AWS Cloud Practitioner Certification
 
 Skills
 • Fluent English
