@@ -46,11 +46,11 @@ Check out my profile at <github.com/CavalcanteLucas>
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![4](https://progress-bar.dev/42/?title=pg.299\/pg.711&color=babaca&width=120) |
 | [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | ![3](https://progress-bar.dev/30/?title=ep.11\/ep.36&color=babaca&width=120) |
 | [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | ![7](https://progress-bar.dev/18/?title=1:01:12\/5:26:45&color=babaca&width=120) |
-
 |**Queue**||
 |[Deploying Full Stack App onto AWS](https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=145&ab_channel=SanjeevThiyagarajan) | ![](https://progress-bar.dev/0/?title=0:00:00\/1:42:39&color=babaca&width=120)|
 | [The Complete Guide for AWS CLI](https://www.youtube.com/watch?v=PWAnY-w1SGQ&ab_channel=SanjeevThiyagarajan) | ![](https://progress-bar.dev/0/?title=0:00:00\/1:00:59&color=babaca&width=120) |
 | [Eloquent JavaScript](https://eloquentjavascript.net/) | ![](https://progress-bar.dev/0/?title=chap.1\/chap.21&color=babaca&width=120) |
+
 
 ###
 
