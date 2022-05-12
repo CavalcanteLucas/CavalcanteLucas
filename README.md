@@ -51,6 +51,9 @@ Check out my profile at <github.com/CavalcanteLucas>
 | [The Complete Guide for AWS CLI](https://www.youtube.com/watch?v=PWAnY-w1SGQ&ab_channel=SanjeevThiyagarajan) | ![](https://progress-bar.dev/0/?title=0:00:00\/1:00:59&color=babaca&width=120) |
 | [Eloquent JavaScript](https://eloquentjavascript.net/) | ![](https://progress-bar.dev/0/?title=chap.1\/chap.21&color=babaca&width=120) |
 | [Deploy a Twitter Bot with Tweepy, Docker and AWS](https://realpython.com/twitter-bot-python-tweepy/) | ![](https://progress-bar.dev/0/?title=0\/100&color=babaca&width=120) |
+| [The Complete Guide to Full Stack Web3 Development](https://www.youtube.com/watch?v=nRMo5jjgCr4&t=5937s&ab_channel=NaderDabit) | ![](https://progress-bar.dev/0/?title=0:00:00\/2:06:11&color=babaca&width=120) |
+| [Web3 Blockchain Fundamentals MOOC](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&ab_channel=Web3Foundation) | ![](https://progress-bar.dev/0/?title=1\/20&color=babaca&width=120) |
+
 
 ###
 
