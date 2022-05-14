@@ -43,8 +43,8 @@ Check out my profile at <github.com/CavalcanteLucas>
 |:---|---:|
 | [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![1](https://progress-bar.dev/91/?title=ep.123\/135&color=babaca&width=120) |
 | [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/43/?title=7:57:46\/18:40:43&color=babaca&width=120) |
+| [Web3 Blockchain Fundamentals MOOC](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&ab_channel=Web3Foundation) | ![](https://progress-bar.dev/50/?title=ep.10\/20&color=babaca&width=120) |
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![4](https://progress-bar.dev/42/?title=pg.299\/711&color=babaca&width=120) |
-| [Web3 Blockchain Fundamentals MOOC](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&ab_channel=Web3Foundation) | ![](https://progress-bar.dev/30/?title=ep.6\/20&color=babaca&width=120) |
 | [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) | ![3](https://progress-bar.dev/30/?title=ep.11\/36&color=babaca&width=120) |
 | [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | ![7](https://progress-bar.dev/18/?title=1:01:12\/5:26:45&color=babaca&width=120) |
 |**Queue**||
