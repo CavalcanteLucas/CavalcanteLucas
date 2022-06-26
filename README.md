@@ -9,25 +9,24 @@
 
 Experience
 • 5+ yoe (years of experience) with Python
-• 2+ yoe with JavaScript for both backend and frontend, including NodeJS, ExpressJS and reactive frameworks such as ReactJS, Redux, and Vue
+• 2+ yoe with JavaScript for both backend and frontend, including NodeJS, ExpressJS, and reactive frameworks such as ReactJS, Redux, and Vue
 • 2+ yoe with Django, including DRF, and testing frameworks like Pytest
 • 2+ yoe with relational Database management using MySQL and PostgreSQL
 • 2+ yoe with frontend developing, including HTML5, CSS3, Bootstrap 
 • 1~ yoe with deploying technologies, including NGINX, Heroku, Docker, RabitMQ
-• 1~ yoe with AWS services including EC2, S3, CloudWatch, Lambda, Organizations. Training for  AWS Cloud Practitioner Certification
+• 1~ yoe with AWS services including EC2, S3, CloudWatch, Lambda, Organizations. Training for AWS Cloud Practitioner Certification
+• Learning Elixir + Phoenix
 
 Skills
 • Fluent English
-• Strong writing skills.
-• Digital Transmission Systems Ph.D.
-• Computing Engineer M.Sc.
+• Strong writing skills
+• Digital Transmission Systems Ph.D
+• Computing Engineer M.Sc
 • Solid mathematical background
 • Deep understanding of digital signal processing, and wireless/optical transmission systems
 • Broad experience with languages and libraries for mathematical and physical simulations with HPC, including Python, MATLAB, C++, CUDA, OpenCL, OpenMP
 
 "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
-
-Check out my profile at <github.com/CavalcanteLucas>
 ```
 ###
 
