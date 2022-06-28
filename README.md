@@ -2,7 +2,7 @@
 
 [![Stack Exchange reputation](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5114495/lucascavalcante)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-cp-cavalcante)
-[![MyShelf](https://img.shields.io/badge/MyShelf-green?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/cavalcantelucas/cavalcantelucas/shelf.md)
+[![Shelf](https://img.shields.io/badge/Shelf-green?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/cavalcantelucas/shelf)
 
 - Full-Stack JavaScript / Python Software Developer
 - Linux / Git enthusiast
@@ -34,5 +34,3 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=cavalcantelucas&count_private=true&show_icons=true&hide=stars)](https://github.com/cavalcantelucas/)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantelucas&layout=compact)](https://github.com/cavalcantelucas/)
-
-####
