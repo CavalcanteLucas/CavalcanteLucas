@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-cp-cavalcante)
 [![Shelf](https://img.shields.io/badge/Shelf-green?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/cavalcantelucas/shelf)
 
-- Full-Stack JavaScript / Python Software Developer
+- Python / JavaScript Full-Stack Software Developer
 - Linux / Git enthusiast
 - Open-source advocate
 
