@@ -17,7 +17,6 @@
 - 2+ yoe with frontend developing, including HTML5, CSS3, Bootstrap
 - 1~ yoe with deploying technologies, including NGINX, Heroku, Docker, RabitMQ
 - 1~ yoe with AWS services including EC2, S3, CloudWatch, Lambda, Organizations. Training for AWS Cloud Practitioner Certification
-- Learning Elixir + Phoenix
 
 ## Skills
 
