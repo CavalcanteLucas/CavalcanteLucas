@@ -15,7 +15,7 @@
 - 2+ yoe with Django, including DRF, and testing frameworks like Pytest
 - 2+ yoe with relational Database management using MySQL and PostgreSQL
 - 2+ yoe with frontend developing, including HTML5, CSS3, Bootstrap
-- 1~ yoe with deploying technologies, including NGINX, Heroku, Docker, RabitMQ
+- 1~ yoe with deploying techs, CI/CD, and queue communication, including NGINX, Heroku, Docker, Jenkins, RabbitMQ
 - 1~ yoe with AWS services including EC2, S3, CloudWatch, Lambda, Organizations. Training for AWS Cloud Practitioner Certification
 
 ## Skills
