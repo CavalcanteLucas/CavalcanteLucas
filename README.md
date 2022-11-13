@@ -4,19 +4,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-cp-cavalcante)
 [![Shelf](https://img.shields.io/badge/Shelf-green?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/cavalcantelucas/shelf)
 
-- Python | JavaScript Sourcerer
-- Full-Stack Developer | Software Engineer
-- Linux | Git Enthusiast
+- Data Engineer
+- Python Deveoper | JavaScript Developer | Full-Stack Developer | Software Engineer
 
 ## Experience
 
 - 5+ yoe (years of experience) with Python
-- 2+ yoe with JavaScript for both backend and frontend, including NodeJS, ExpressJS, and reactive frameworks such as ReactJS, Redux, and Vue
-- 2+ yoe with Django, including DRF, and testing frameworks like Pytest
-- 2+ yoe with relational Database management using MySQL and PostgreSQL
-- 2+ yoe with frontend developing, including HTML5, CSS3, Bootstrap
-- 1~ yoe with deploying techs, CI/CD, and queue communication, including NGINX, Heroku, Docker, Jenkins, RabbitMQ
-- 1~ yoe with AWS services including EC2, S3, CloudWatch, Lambda, Organizations. Training for AWS Cloud Practitioner Certification
+  - for Data ETL/ELT: Numpy, Pandas, Peewee
+  - for the Web: Django (+DRF), Flask
+- 3+ yoe with SQL and NoSQL
+- 2+ yoe with CI/CD (GithubActions, NGINX, Docker, Sentry)
+- 2+ yoe with Cloud Computing (GCP, AWS)
+- ~1 yoe with Data Pipelines (Airflow, Metabase)
 
 ## Skills
 
