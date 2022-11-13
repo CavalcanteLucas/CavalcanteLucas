@@ -13,7 +13,7 @@
   - for Data ETL/ELT: Numpy, Pandas, Peewee
   - for the Web: Django (+DRF), Flask
 - 3+ yoe with SQL and NoSQL
-- 2+ yoe with CI/CD (GithubActions, NGINX, Docker, Sentry)
+- 2+ yoe with CI/CD (GitHub Actions, NGINX, Docker, Sentry)
 - 2+ yoe with Cloud Computing (GCP, AWS)
 - ~1 yoe with Data Pipelines (Airflow, Metabase)
 
