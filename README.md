@@ -9,11 +9,13 @@
 
 ## Experience
 
-- 5+ yoe (years of experience) with Python
+- 5+ yoe (years of experience) with Python, including libraries
   - for Data ETL/ELT: Numpy, Pandas, Peewee
-  - for the Web: Django (+DRF), Flask
-- 3+ yoe with SQL and NoSQL
-- 2+ yoe with CI/CD (GitHub Actions, NGINX, Docker, Sentry)
+  - for the Web: Django, DRF, Flask
+  - for testing: Pytest, Unittest
+  - for queue communication: RabbitMQ
+- 3+ yoe with SQL and NoSQL databases
+- 2+ yoe with CI/CD (GitHub Actions, Docker, NGINX, Sentry)
 - 2+ yoe with Cloud Computing (GCP, AWS)
 - ~1 yoe with Data Pipelines (Airflow, Metabase)
 
