@@ -9,25 +9,23 @@
 
 ## Experience
 
-- 5+ yoe (years of experience) with Python, including libraries
-  - for Data ETL/ELT: Numpy, Pandas, Peewee
-  - for the Web: Django, DRF, Flask
-  - for testing: Pytest, Unittest
-  - for queue communication: RabbitMQ
-- 3+ yoe with SQL and NoSQL databases
-- 2+ yoe with CI/CD (GitHub Actions, Docker, NGINX, Sentry)
-- 2+ yoe with Cloud Computing (GCP, AWS)
-- ~1 yoe with Data Pipelines (Airflow, Metabase)
+- 5+ yoew (years of experience with) Python, including libraries and frameworks for:
+  - Data ETL/ELT (Numpy, Pandas);
+  - Web Development (Django, DRF, Flask, RabbitMQ);
+- 3+ yoew SQL and NoSQL databases.
+- 2+ yoew CI/CD (GitHub Actions, Docker, NGINX, Sentry).
+- 2+ yoew Cloud Computing (GCP, AWS).
+- ~1 yoew Data Pipelines (Airflow, Metabase).
+- 3+ yoew JavaScript and popular frameworks for Web Development (Node, React, Redux, Vue, Express).
 
 ## Skills
 
-- Fluent English
-- Strong writing skills
-- Digital Transmission Systems Ph.D
-- Computing Engineer M&#46;Sc
-- Solid mathematical background
-- Deep understanding of digital signal processing, and wireless/optical transmission systems
-- Broad experience with languages and libraries for mathematical and physical simulations with HPC, including Python, MATLAB, C++, CUDA, OpenCL, OpenMP
+- Fluent English.
+- Data Transmission Systems Ph.D.
+- Computing Engineer.
+- Solid mathematical background.
+- Deep understanding of Digital Signal Processing, and Wireless/Optical data transmission systems.
+- Broad experience with languages and libraries for mathematical and physical simulations with HPC (Python, MATLAB, CUDA, OpenCL, OpenMP).
 
 ---
 
