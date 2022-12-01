@@ -12,7 +12,7 @@
 - 5+ yoew (years of experience with) Python, including libraries and frameworks for:
   - Data ETL/ELT (Numpy, Pandas);
   - Web Development (Django, Flask, FastAPI);
-- 3+ yoew SQL and NoSQL databases.
+- 3+ yoew SQL and NoSQL databases (Postgres, GraphQL, Redis).
 - 2+ yoew CI/CD (GitHub Actions, Docker, NGINX, Sentry).
 - 2+ yoew Cloud Computing (GCP, AWS).
 - ~1 yoew Data Pipelines (Airflow, Metabase).
