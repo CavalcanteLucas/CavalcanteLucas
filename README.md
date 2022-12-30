@@ -10,9 +10,9 @@
 ## Experience
 
 - Python [6+ years], including libraries and frameworks for
-  - Data ETL/ELT pipelines (Airflow) [1~ year]
+  - Data ETL/ELT pipelines (NumPy, Pandas, Airflow, DBT) [1~ year]
   - Web Development (Django, DRF, Flask) [3~ years]
-  - Mathematical Simulations (Matplotlib, SciPy, SymPy, Numpy, Pandas) [3+ years]
+  - Mathematical Simulations (Matplotlib, SciPy, SymPy) [3+ years]
 - SQL and NoSQL databases (Postgres, GraphQL) [3~ years]
 - CI/CD (GitHub Actions, Docker, NGINX, Sentry) [2+ years]
 - Cloud Computing (GCP, AWS) [2+ years]
