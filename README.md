@@ -5,7 +5,7 @@
 [![Shelf](https://img.shields.io/badge/Shelf-green?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/cavalcantelucas/shelf)
 
 - Data Engineer | Software Engineer
-- Python Developer | JavaScript Developer | Full-Stack Developer
+- Python Developer | JavaScript Developer | Full Stack Developer
 
 ## Experience
 
