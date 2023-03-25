@@ -7,7 +7,7 @@
 - Data Engineer | Software Engineer
 - Python Developer | JavaScript Developer | Full Stack Developer
 
-## Experience
+## Skills
 
 - Python [6+ years], including libraries and frameworks for
   - Data ETL/ELT Pipelines (NumPy, Pandas, Airflow, DBT) [1~ year]
@@ -18,7 +18,7 @@
 - Cloud Computing (GCP, AWS) [2+ years]
 - JavaScript popular frameworks for Web Development (Node, React, Redux, Vue, Express) [2+ years]
 
-## Skills
+## Experience
 
 - Fluent English
 - Data Transmission Systems Ph.D.
