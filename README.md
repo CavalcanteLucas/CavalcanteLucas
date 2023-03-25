@@ -13,7 +13,7 @@
   - Data ETL/ELT Pipelines (NumPy, Pandas, Airflow, DBT) [1~ year]
   - Web Development (Django, DRF, Flask) [3~ years]
   - Mathematical Simulations (Matplotlib, SciPy, SymPy) [3+ years]
-- SQL and NoSQL databases (Postgres, GraphQL) [3+ years]
+- SQL and NoSQL databases (Postgres, GraphQL) [3~ years]
 - CI/CD (GitHub Actions, Docker, NGINX, Sentry) [2+ years]
 - Cloud Computing (GCP, AWS) [2+ years]
 - JavaScript popular frameworks for Web Development (Node, React, Redux, Vue, Express) [2+ years]
