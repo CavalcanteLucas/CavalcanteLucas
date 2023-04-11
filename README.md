@@ -7,7 +7,6 @@
 - Data Engineer | Software Engineer
 - Python Developer | JavaScript Developer | Full Stack Developer
 
-
 ## Skills
 
 - Python [6+ years], including libraries and frameworks for
