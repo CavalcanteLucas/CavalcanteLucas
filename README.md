@@ -15,7 +15,7 @@
   - Mathematical Simulations (Matplotlib, SciPy, SymPy) [3+ years]
 - SQL and NoSQL databases (Postgres, GraphQL) [3~ years]
 - CI/CD (GitHub Actions, Docker, NGINX, Sentry) [2+ years]
-- Cloud Computing (GCP, AWS) [2+ years]
+- Cloud (GCP, AWS) [2+ years]
 - JavaScript popular frameworks for Web Development (Node, React, Redux, Vue, Express) [2+ years]
 
 ## Experience
