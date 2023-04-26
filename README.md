@@ -18,7 +18,7 @@
 - Cloud (GCP, AWS) [2+ years]
 - JavaScript popular frameworks for Web Development (Node, React, Redux, Vue, Express) [2+ years]
 
-## Experience
+## Background
 
 - Fluent English
 - Data Transmission Systems Ph.D.
