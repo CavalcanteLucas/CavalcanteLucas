@@ -14,8 +14,8 @@
   - Web Development (Django, DRF, Flask) [3~ years]
   - Mathematical Simulations (Matplotlib, SciPy, SymPy) [3+ years]
 - SQL and NoSQL databases [3~ years]
-- CI/CD (GitHub Actions, Docker, NGINX, Sentry) [2+ years]
-- Cloud (GCP, AWS) [2+ years]
+- CI/CD and Dockerized Environments [3+ years]
+- Cloud Solutions (GCP, AWS) [2+ years]
 - JavaScript popular frameworks for Web Development (Node, React, Redux, Vue, Express) [2+ years]
 
 ## Background
