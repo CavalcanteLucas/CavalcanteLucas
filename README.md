@@ -21,7 +21,7 @@
 
 - Fluent English
 - Data Transmission Systems Ph.D.
-- Computing Engineer Ms.C.
+- Computing Engineer Ms. C.
 - Solid mathematical background
 - Deep understanding of Digital Signal Processing, and Wireless/Optical data transmission systems
 - Former experience with HPC and intensive mathematical simulations (MATLAB, Python, CUDA)
